@@ -1,4 +1,4 @@
-# 🛡️ SANS Data Quality System
+# 🛡️  Data Quality System
 
 **Professional NDMO Compliance Dashboard with Advanced Pipeline Processing**
 
