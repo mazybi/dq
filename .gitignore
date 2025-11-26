@@ -74,3 +74,11 @@ tmp/
 *.tmp
 *.temp
 
+# Large backup files and archives
+*.zip
+dataquality*.zip
+*backup*.zip
+*backup*.xlsx
+Billing*.xlsx
+~$*.xlsx
+
